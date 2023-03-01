@@ -3,6 +3,8 @@
 ## Overview:
 I took this dataset from CodeBasics Challenge where there were several datasets regarding details of customer, product, monthly sales, gross_sales, etc.
 
+## Tools Used: PostGreSQL
+
 ## Questions from the dataset and their code including output:
 
 ### 1. Find distinct market where region is APAC and customer is Atliq Exclusive
